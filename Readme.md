@@ -7,5 +7,7 @@ The UCI Machine Learning Repository hosts the "Room Occupancy Estimation Data Se
 https://archive.ics.uci.edu/ml/datasets/Room+Occupancy+Estimation
 
 Number of Instances: 10129 
+
 Number of Attributes: 16
+
 ![image](https://user-images.githubusercontent.com/88321272/233163795-a27fa51d-c141-4de7-a0b6-7c823847d8eb.png)
